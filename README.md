@@ -1,1 +1,3 @@
 # Ayr-k_Devam
+
+Ayrık Matematik üzerine çalışmaya devam ediyoruz. Bu sefer Mantıksal işlemlerde önemli olan ⊕ XOR operatörünü inceledik ve mantığını kavramaya çalıştık. Anlaşılıyor ki parça parça olan şeyleri bir araya getirip fazlalıklardan kurtulduğumuzda; sağını solunu güzelce yontuğumuzda güzel bir sonuç elde edebiliyoruz. Bu Mantıksal operatörlerin kullanıldığı devrelerde daha iyi anlaşılıyor. Daha az maliyetli işleri mümkün kılıyor. Çalışmaya devam...
